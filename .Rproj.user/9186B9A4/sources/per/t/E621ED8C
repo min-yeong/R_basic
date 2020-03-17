@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574662948818.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "471074286",
+    "id" : "E621ED8C",
+    "lastKnownWriteTime" : 1573451329,
+    "last_content_update" : 1573451329,
+    "path" : "D:/bitr/rstudy/01-r-language-synytax.R",
+    "project_path" : "01-r-language-synytax.R",
+    "properties" : {
+        "cursorPosition" : "78,21",
+        "scrollLine" : "60",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

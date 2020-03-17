@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573694426318.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2245193090",
+    "id" : "9C66322E",
+    "lastKnownWriteTime" : 1573707046,
+    "last_content_update" : 1573707046731,
+    "path" : "D:/bitr/rstudy/06-data-visualization.R",
+    "project_path" : "06-data-visualization.R",
+    "properties" : {
+        "cursorPosition" : "104,13",
+        "scrollLine" : "70",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
